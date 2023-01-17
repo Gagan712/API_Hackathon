@@ -1,7 +1,7 @@
 Feature: To Save and Validate A Program
 
   Scenario Outline: To create two new program
-    Given User get the Base Url as "URL"
+    Given User get the Base Url
     When User Put the "<programName>","<programDescription>","<programStatus>",creation time,lastModtime in Json
     Then Request body with given data
     When Make a Post request
@@ -14,5 +14,5 @@ Feature: To Save and Validate A Program
 
     Examples: 
       | programName                | programDescription  | programStatus |
-      | Jan23-API Coders-SDET-0001 | Learn RestAssure    | Active        |
-      | Jan23-API Coders-SDET-0002 | Learn RestAssureAPI | Active        |
+      | Jan23-API Coders-SDET-0171 | Learn RestAssure    | Active        |
+      | Jan23-API Coders-SDET-0172 | Learn RestAssureAPI | Active        |

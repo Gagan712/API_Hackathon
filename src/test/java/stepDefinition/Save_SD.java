@@ -1,17 +1,9 @@
 package stepDefinition;
 
 import static org.testng.Assert.assertEquals;
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
-//import static io.restassured.RestAssured.baseURI;
-//import static io.restassured.RestAssured.*;
-//import static org.hamcrest.Matchers.*;
-
 import java.util.HashMap;
-//import java.util.Map;
-
 import org.json.simple.JSONObject;
 
 import io.cucumber.java.en.And;
@@ -29,14 +21,15 @@ public class Save_SD {
 	public static String baseurl = "https://lms-backend-service.herokuapp.com/lms";
 	public static Response response;
 	public static int progID;
-	//public static String ProgDes;
 	public static RequestSpecification request;
 
-@Given("User get the Base Url as {string}")
-public void user_get_the_base_url_as(String string) {
-	logger.info("Use get the Base URI");
-	RestAssured.baseURI =baseurl;
-}
+	
+	
+	@Given("User get the Base Url")
+	public void user_get_the_base_url() {
+		logger.info("Use get the Base URI");
+		RestAssured.baseURI =baseurl;
+	}
 
 @When("User Put the {string},{string},{string},creation time,lastModtime in Json")
 public void user_put_the_creation_time_last_modtime_in_json(String programName, String progDes, String progStatus) {
@@ -74,6 +67,7 @@ public void make_a_post_request() {
 public void save_the_program_id() {
 	logger.info("User save the programID");
 	 progID =response.jsonPath().get("programId");
+	 logger.info("id = "+ progID);
 	System.out.println("id = "+ progID);
 }
 
@@ -82,7 +76,7 @@ public void validate_the_status_code() {
 	logger.info("validate the status code");
 	//logger.info(response.getStatusCode());
 	System.out.println(response.getStatusCode());
-	//request.then().statusCode(201);
+	assertEquals(response.getStatusCode(),201);
 	
 }
 
@@ -117,7 +111,9 @@ public void make_a_get_request_by_program_id() {
 public void validate_the_get_status_code()
 {
 	System.out.println(response.getStatusCode());
-	//request.then().statusCode(200);
+	request.then().statusCode(200);
 }
+
+
 
 }

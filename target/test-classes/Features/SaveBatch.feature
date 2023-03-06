@@ -14,5 +14,5 @@ Feature: To Create and Validate A Batch
 
     Examples: 
       | batchName                        | batchDescription  | batchStatus | batchNoOfClasses | programId | programName |
-      | Jan23-API Coders-SDET-SDET85-001 | Learn PostMan     | Active      |                5 |        634| PostMan     |
-      | Jan23-API Coders-SDET-SDET85-002 | Learn API Testing | Active      |                7 |        543 | API Testing |
+      | Jan23-API Coders-SDET-SDET85-099 | Learn PostMan     | Active      |                5 |        634| PostMan     |
+      | Jan23-API Coders-SDET-SDET85-098 | Learn API Testing | Active      |                7 |        543 | API Testing |

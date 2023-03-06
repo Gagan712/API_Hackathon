@@ -14,5 +14,5 @@ Feature: To Save and Validate A Program
 
     Examples: 
       | programName                | programDescription  | programStatus |
-      | Jan23-API Coders-SDET-0171 | Learn RestAssure    | Active        |
-      | Jan23-API Coders-SDET-0172 | Learn RestAssureAPI | Active        |
+      | Jan23-API Coders-SDET-0999 | Learn RestAssure    | Active        |
+      | Jan23-API Coders-SDET-0998 | Learn RestAssureAPI | Active        |

@@ -2359,3 +2359,181 @@
 [INFO ]2023-01-15 15:43:59.455 [main]logger-Use get the Base URI
 [INFO ]2023-01-15 15:43:59.456 [main]logger-User make a delete request by programID
 [INFO ]2023-01-15 15:43:59.603 [main]logger-validate the delete status code
+[INFO ]2023-01-19 22:05:16.193 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:16.516 [main]logger-User make a Get request
+[INFO ]2023-01-19 22:05:19.544 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:19.545 [main]logger-User make a Get request
+[INFO ]2023-01-19 22:05:21.093 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:21.093 [main]logger-Put all the data for batch body
+[INFO ]2023-01-19 22:05:21.094 [main]logger-Request the Body with Given Data
+[INFO ]2023-01-19 22:05:21.100 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:21.582 [main]logger-User save the batchID
+[INFO ]2023-01-19 22:05:21.613 [main]logger-id =7308
+[INFO ]2023-01-19 22:05:21.614 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:21.634 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:21.635 [main]logger-User make a delete request by batchID
+[INFO ]2023-01-19 22:05:22.083 [main]logger-validate the delete status code
+[INFO ]2023-01-19 22:05:22.085 [main]logger-User make a Get request by batchId
+[INFO ]2023-01-19 22:05:22.554 [main]logger-Status code of GET Request 400
+[INFO ]2023-01-19 22:05:22.570 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:22.571 [main]logger-Put all the data for program body
+[INFO ]2023-01-19 22:05:22.571 [main]logger-Request the Body with Given Data
+[INFO ]2023-01-19 22:05:22.573 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:23.086 [main]logger-User save the programID
+[INFO ]2023-01-19 22:05:23.097 [main]logger-id = 13845
+[INFO ]2023-01-19 22:05:23.098 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:23.114 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:23.115 [main]logger-User make a delete request by programID
+[INFO ]2023-01-19 22:05:23.576 [main]logger-Status code of Delete Request 200
+[INFO ]2023-01-19 22:05:23.576 [main]logger-User make a Get request by programID
+[INFO ]2023-01-19 22:05:24.072 [main]logger-Status code of GET Request 400
+[INFO ]2023-01-19 22:05:24.083 [main]logger-get the base url
+[INFO ]2023-01-19 22:05:24.084 [main]logger-get the request header
+[INFO ]2023-01-19 22:05:24.875 [main]logger-Status code200
+[INFO ]2023-01-19 22:05:25.746 [main]logger-Batch ID 7155
+[INFO ]2023-01-19 22:05:25.873 [main]logger-Batch Name 0398
+[INFO ]2023-01-19 22:05:25.976 [main]logger-Batch Description Java Program Batch
+[INFO ]2023-01-19 22:05:26.107 [main]logger-Batch Status Active
+[INFO ]2023-01-19 22:05:26.196 [main]logger-Batch NoOfClasses 4
+[INFO ]2023-01-19 22:05:26.284 [main]logger-Program Id 13134
+[INFO ]2023-01-19 22:05:26.370 [main]logger-Program Name ariel.info
+[INFO ]2023-01-19 22:05:26.382 [main]logger-get the base url
+[INFO ]2023-01-19 22:05:26.382 [main]logger-get the request header
+[INFO ]2023-01-19 22:05:26.825 [main]logger-Status code200
+[INFO ]2023-01-19 22:05:26.848 [main]logger-Batch ID901
+[INFO ]2023-01-19 22:05:26.887 [main]logger-get the base url
+[INFO ]2023-01-19 22:05:26.888 [main]logger-get the request header
+[INFO ]2023-01-19 22:05:27.312 [main]logger-Status code200
+[INFO ]2023-01-19 22:05:27.331 [main]logger-Batch Name[fake]
+[INFO ]2023-01-19 22:05:27.340 [main]logger-get the base url
+[INFO ]2023-01-19 22:05:27.340 [main]logger-get the request header
+[INFO ]2023-01-19 22:05:27.780 [main]logger-Status code200
+[INFO ]2023-01-19 22:05:27.798 [main]logger-Program Id[305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305, 305]
+[INFO ]2023-01-19 22:05:28.269 [main]logger-Status code200
+[INFO ]2023-01-19 22:05:29.184 [main]logger-ProgramID :13839
+[INFO ]2023-01-19 22:05:29.343 [main]logger-ProgramName :Jan23-TechWarrior-SDET-019-3908
+[INFO ]2023-01-19 22:05:29.509 [main]logger-ProgramDescription:Jan23-TechWarrior-SDET-Desc
+[INFO ]2023-01-19 22:05:29.667 [main]logger-ProgramStatus :Active
+[INFO ]2023-01-19 22:05:30.119 [main]logger-Status code200
+[INFO ]2023-01-19 22:05:30.130 [main]logger-ProgramID :1761
+[INFO ]2023-01-19 22:05:30.142 [main]logger-ProgramName :Jan23-APICoders-SDET-017-413
+[INFO ]2023-01-19 22:05:30.152 [main]logger-ProgramDescription:Database Administration Program in 100 days
+[INFO ]2023-01-19 22:05:30.164 [main]logger-ProgramStatus :Active
+[INFO ]2023-01-19 22:05:30.179 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:30.179 [main]logger-Put all the data
+[INFO ]2023-01-19 22:05:30.180 [main]logger-Request the Body with Given Data
+[INFO ]2023-01-19 22:05:30.181 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:30.611 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:30.611 [main]logger-User save the batchID
+[INFO ]2023-01-19 22:05:30.620 [main]logger-id =7309
+[INFO ]2023-01-19 22:05:30.620 [main]logger-User save the batchName
+[INFO ]2023-01-19 22:05:30.633 [main]logger-id =API Coders
+[INFO ]2023-01-19 22:05:30.643 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:30.643 [main]logger-Put invalid data
+[INFO ]2023-01-19 22:05:30.644 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:31.095 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:31.104 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:31.109 [main]logger-Put invalid data
+[INFO ]2023-01-19 22:05:31.111 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:31.544 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:31.554 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:31.555 [main]logger-Request the Body with existing progamID
+[INFO ]2023-01-19 22:05:32.021 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:32.032 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:32.033 [main]logger-User make a delete request by batchID
+[INFO ]2023-01-19 22:05:32.477 [main]logger-validate the delete status code
+[INFO ]2023-01-19 22:05:32.486 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:32.487 [main]logger-Put invalid body data for program body
+[INFO ]2023-01-19 22:05:32.487 [main]logger-Request the Body with Given Data
+[INFO ]2023-01-19 22:05:32.933 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:32.943 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:32.946 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:33.389 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:33.398 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:33.399 [main]logger-Put body data with existing ProgramName
+[INFO ]2023-01-19 22:05:33.399 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:33.835 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:33.847 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:33.848 [main]logger-Put all the data for program body
+[INFO ]2023-01-19 22:05:33.848 [main]logger-Request the Body with Given Data
+[INFO ]2023-01-19 22:05:33.850 [main]logger-Make a Put request
+[INFO ]2023-01-19 22:05:34.295 [main]logger-validate the put status code
+[INFO ]2023-01-19 22:05:34.317 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:34.318 [main]logger-Put all the data for batch body
+[INFO ]2023-01-19 22:05:34.319 [main]logger-Request the Body with Given Data
+[INFO ]2023-01-19 22:05:34.320 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:34.755 [main]logger-User save the batchID
+[INFO ]2023-01-19 22:05:34.798 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:34.798 [main]logger-Put all the data for batch body
+[INFO ]2023-01-19 22:05:34.798 [main]logger-Request the Body with Given Data
+[INFO ]2023-01-19 22:05:34.800 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:35.224 [main]logger-User save the batchID
+[INFO ]2023-01-19 22:05:35.252 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:35.253 [main]logger-Put all the data for program body
+[INFO ]2023-01-19 22:05:35.254 [main]logger-Request the Body with Given Data
+[INFO ]2023-01-19 22:05:35.255 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:35.687 [main]logger-User save the programID
+[INFO ]2023-01-19 22:05:35.710 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:35.711 [main]logger-Put all the data for program body
+[INFO ]2023-01-19 22:05:35.711 [main]logger-Request the Body with Given Data
+[INFO ]2023-01-19 22:05:35.712 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:36.153 [main]logger-User save the programID
+[INFO ]2023-01-19 22:05:36.173 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:36.173 [main]logger-Request the Body with json file Data
+[INFO ]2023-01-19 22:05:36.176 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:36.634 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:36.634 [main]logger-User save the programID
+[INFO ]2023-01-19 22:05:36.645 [main]logger-id = 13847
+[INFO ]2023-01-19 22:05:36.655 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:36.655 [main]logger-User make a Get request by programID
+[INFO ]2023-01-19 22:05:37.124 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:37.124 [main]logger-User make a delete request by programID
+[INFO ]2023-01-19 22:05:37.587 [main]logger-validate the delete status code
+[INFO ]2023-01-19 22:05:37.599 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:37.599 [main]logger-Put all the data
+[INFO ]2023-01-19 22:05:37.600 [main]logger-Request the Body with Given Data
+[INFO ]2023-01-19 22:05:37.601 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:38.065 [main]logger-User save the batchID
+[INFO ]2023-01-19 22:05:38.075 [main]logger-id =7310
+[INFO ]2023-01-19 22:05:38.075 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:38.084 [main]logger-User make a Get request by batchId
+[INFO ]2023-01-19 22:05:38.523 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:38.523 [main]logger-Update the Batch by Batch Id
+[INFO ]2023-01-19 22:05:38.523 [main]logger-update the Body with Given Data
+[INFO ]2023-01-19 22:05:38.986 [main]logger-validate the put status code
+[INFO ]2023-01-19 22:05:38.993 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:38.993 [main]logger-User make a delete request by programID
+[INFO ]2023-01-19 22:05:39.437 [main]logger-validate the delete status code
+[INFO ]2023-01-19 22:05:39.448 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:39.448 [main]logger-Put all the data for program body
+[INFO ]2023-01-19 22:05:39.449 [main]logger-Request the Body with Given Data
+[INFO ]2023-01-19 22:05:39.450 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:39.945 [main]logger-User save the programID
+[INFO ]2023-01-19 22:05:39.955 [main]logger-id = 13848
+[INFO ]2023-01-19 22:05:39.955 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:39.963 [main]logger-User make a Get request by programID
+[INFO ]2023-01-19 22:05:40.424 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:40.425 [main]logger-Put all the data for program body
+[INFO ]2023-01-19 22:05:40.425 [main]logger-User make a update request by programID
+[INFO ]2023-01-19 22:05:40.876 [main]logger-validate the put status code
+[INFO ]2023-01-19 22:05:40.882 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:40.882 [main]logger-User make a delete request by programID
+[INFO ]2023-01-19 22:05:41.320 [main]logger-validate the delete status code
+[INFO ]2023-01-19 22:05:41.379 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:41.379 [main]logger-Put all the data for program body
+[INFO ]2023-01-19 22:05:41.380 [main]logger-Request the Body with Given Data
+[INFO ]2023-01-19 22:05:41.382 [main]logger-User make a Post request
+[INFO ]2023-01-19 22:05:41.819 [main]logger-validate the status code
+[INFO ]2023-01-19 22:05:41.819 [main]logger-User save the programID
+[INFO ]2023-01-19 22:05:41.829 [main]logger-id = 13849
+[INFO ]2023-01-19 22:05:41.836 [main]logger-User make a Get request by programID
+[INFO ]2023-01-19 22:05:42.304 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:42.304 [main]logger-Put all the data for program body
+[INFO ]2023-01-19 22:05:42.304 [main]logger-User make a update request with invalid body by programID
+[INFO ]2023-01-19 22:05:42.764 [main]logger-validate the put status code
+[INFO ]2023-01-19 22:05:42.772 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:42.772 [main]logger-User make a update request with no body by programID
+[INFO ]2023-01-19 22:05:43.216 [main]logger-validate the put status code
+[INFO ]2023-01-19 22:05:43.223 [main]logger-Use get the Base URI
+[INFO ]2023-01-19 22:05:43.223 [main]logger-User make a delete request by programID
+[INFO ]2023-01-19 22:05:43.670 [main]logger-validate the delete status code
